@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next
+app/.next
+
+# Environment variables (never commit secrets)
+.env
+.env.local
+.env*.local
+
+# Vercel
+.vercel
